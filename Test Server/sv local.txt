@@ -1,0 +1,4 @@
+
+
+instala el http-server abri cmd desde test server y usa
+http-server -p 8080 -c-1 --cors
